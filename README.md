@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashu00071
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node
+- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me ashutoshpanigrahi27.7@gmail.com
 
 <!---
